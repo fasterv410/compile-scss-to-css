@@ -1,3 +1,5 @@
 # compile-scss-to-css
 
-```npm run scss
+```
+npm run scss
+```
